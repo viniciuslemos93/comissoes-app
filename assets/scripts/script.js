@@ -7,7 +7,7 @@ function inserirNovoFuncionario() {
     
 
     if (addFuncionario == "") {
-        alert("Campo vazio, por favor insira uma Tarefa.")
+        alert("Campo vazio, por favor insira um Funcionário.")
 
     } else {
         const cadaFuncionario = `
