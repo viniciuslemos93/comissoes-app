@@ -30,3 +30,13 @@ body {
     background-image: linear-gradient(to right, var(--cor-destaque), transparent);
     border-radius: 5px;
 }
+
+.lista-funcionarios {
+    background-color: white;
+    padding: 20px;
+    margin: 20px auto;
+    width: 50%;
+    border-radius: 5px;
+    box-shadow: 5px 5px 18px rgba(0, 0, 0, 0.535);
+    
+}
