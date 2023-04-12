@@ -26,7 +26,7 @@
 <img align="center" alt="Design do site" width="500" src="print.png">
 </div>
 
-### Deploy: 
+### Deploy: https://viniciuslemos93.github.io/comissoes-app/
 
 &#xa0;
 
